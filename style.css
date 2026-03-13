@@ -31,3 +31,14 @@ p{
   width: 50%;      /* зменшити на половину */
   height: auto;    /* щоб пропорції залишались правильні */
 }
+
+form{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+ 
+
+
+
